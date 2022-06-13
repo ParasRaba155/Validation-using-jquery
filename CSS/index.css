@@ -1,0 +1,73 @@
+body{
+    background-color: aliceblue;
+    /* background-color: aqua; */
+  }
+  
+  .asterick::after {
+    content: "*";
+    color: red
+  }
+  
+  .page{
+    padding-top: 10%;
+    height: 100%;
+  }
+  #OP1 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP2 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP3 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OPa {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP4 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP5 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP6 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP7 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP8 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP9 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OP10 {
+    font-size: 15px;
+    color : red;
+  }
+  
+  #OPr {
+    font-size: 15px;
+    color : red;
+  }
